@@ -1,0 +1,23 @@
+.btn {
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+    text-align: center;
+  }
+
+.on{
+  background-color: green;
+}
+
+.off{
+  background-color: red;
+}
+
+.image-container{
+  text-align: center;
+}
+
+.image-container img{
+  
+}
